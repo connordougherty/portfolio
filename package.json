@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A site to show off my work!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connordougherty/portfolio.git"
+  },
+  "author": "Connor Dougherty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connordougherty/portfolio/issues"
+  },
+  "homepage": "https://github.com/connordougherty/portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "bulma": "^0.7.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
