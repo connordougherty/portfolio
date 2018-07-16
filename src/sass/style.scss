@@ -1,4 +1,17 @@
 @charset "utf-8";
 
+// Import fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Colors
+$pink: #DB5D78;
+
+// Global variables
+$link: $pink;
+$family-sans-serif: "Nunito", sans-serif;
+
+// Component variables
+$navbar-height: 5rem;
+
 // Import Bulma
-@import "../../node_modules/bulma/bulma.sass"
+@import "../../node_modules/bulma/bulma.sass";
