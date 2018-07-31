@@ -2,6 +2,7 @@
 
 // Import fonts
 @import url('https://fonts.googleapis.com/css?family=Nunito');
+@import '../node_modules/@fortawesome/fontawesome-free/css/all.css';
 
 // Colors
 $pink: #DB5D78;
@@ -14,4 +15,4 @@ $family-sans-serif: "Nunito", sans-serif;
 $navbar-height: 5rem;
 
 // Import Bulma
-@import "../../node_modules/bulma/bulma.sass";
+@import "../node_modules/bulma/bulma.sass";
